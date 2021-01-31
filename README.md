@@ -86,3 +86,4 @@ ____________________
 ____________________
 1. "As a user, I should be able to click on an individual job and be navigated to a page where I see all the details for that particular job within the website."
 2. "As a user, I should be able to see company reviews, salary, and hiring manager info from the feed."
+3. "As a user, I should be able to complete LinkedIn's easy apply button."
